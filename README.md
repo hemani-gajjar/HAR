@@ -24,21 +24,21 @@ Due to the widespread availability of low-cost wearable devices and portable com
 
 ## Relevant Documents
 
-* [Human Activity Recognition Part 1.ipynb](https://github.com/Mobile-and-Pervasive-Computing-Projects/course-projects-hemani-gajjar/blob/master/Human_Activity_Recognition_Part_1.ipynb)
+* [Human Activity Recognition Part 1.ipynb](https://github.com/hemani-gajjar/HAR/blob/master/Human_Activity_Recognition_Part_1.ipynb)
 
-* [Human Activity Recognition Part 2.ipynb](https://github.com/Mobile-and-Pervasive-Computing-Projects/course-projects-hemani-gajjar/blob/master/Human_Activity_Recognition_Part_2.ipynb)
+* [Human Activity Recognition Part 2.ipynb](https://github.com/hemani-gajjar/HAR/blob/master/Human_Activity_Recognition_Part_2.ipynb)
 
-* [Project Presentation](https://github.com/Mobile-and-Pervasive-Computing-Projects/course-projects-hemani-gajjar/blob/master/Mobile%20Sensing%20and%20HAR%20-%20Final%20Presentation%2C%205th%20May%202022.pdf)
+* [Project Presentation](https://github.com/hemani-gajjar/HAR/blob/master/Mobile%20Sensing%20and%20HAR%20-%20Final%20Presentation%2C%205th%20May%202022.pdf)
 
-* [Project Report](https://github.com/Mobile-and-Pervasive-Computing-Projects/course-projects-hemani-gajjar/blob/master/Mobile%20Sensing%20and%20HAR%20-%20Report.pdf)
+* [Project Report](https://github.com/hemani-gajjar/HAR/blob/master/Mobile%20Sensing%20and%20HAR%20-%20Report.pdf)
 
-* [Project Files Repository](https://github.com/Mobile-and-Pervasive-Computing-Projects/course-projects-hemani-gajjar)
+* [Project Files Repository](https://github.com/hemani-gajjar/HAR)
 
 
 
 ## Implementation Steps
 
-#### For: [Human Activity Recognition Part 1.ipynb](https://github.com/Mobile-and-Pervasive-Computing-Projects/course-projects-hemani-gajjar/blob/master/Human_Activity_Recognition_Part_1.ipynb)  
+#### For: [Human Activity Recognition Part 1.ipynb](https://github.com/hemani-gajjar/HAR/blob/master/Human_Activity_Recognition_Part_1.ipynb)  
 
 - This colab file includes the implementation of three models namely: **Decision Tree, Random Forest and Logistic Regression classifiers**. In addition, it contains the analysis of the results in terms of **Accuracy** and **Run Time** along with comparing the **Feature Selection Technique** on this dataset - [Dataset Link](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones)
 
@@ -47,7 +47,7 @@ Due to the widespread availability of low-cost wearable devices and portable com
 3. Feature Extraction
 4. Classifier Training & Validation Strategy
 
-#### For: [Human Activity Recognition Part 2.ipynb](https://github.com/Mobile-and-Pervasive-Computing-Projects/course-projects-hemani-gajjar/blob/master/Human_Activity_Recognition_Part_2.ipynb)
+#### For: [Human Activity Recognition Part 2.ipynb](https://github.com/hemani-gajjar/HAR/blob/master/Human_Activity_Recognition_Part_2.ipynb)
 
 - This colab file includes the implementaion of the 2D CNN model with the focus on distinguishing between **Sitting** and **Standing** activites on this dataset - [Dataset Link](https://www.cis.fordham.edu/wisdm/dataset.php)
 
